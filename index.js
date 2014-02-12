@@ -1,7 +1,7 @@
 /**
  * Created by David Xu on 2/12/14.
  */
-
+//本章是介绍如何书写一个与文件系统进行交互的命令行程序
 var fs = require('fs');
 var stdin = process.stdin;
 var stdout = process.stdout;
